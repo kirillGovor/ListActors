@@ -1,0 +1,10 @@
+.ActorCard{
+    border: solid 2px #7878e2;
+    max-width: 600px;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 15px;
+    box-shadow: 1px 1px 6px;
+    text-align: center;
+}
